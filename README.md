@@ -1,4 +1,4 @@
 # kahootbot
-ITS SLOW
-SPAM!
+ITS SLOW,
+SPAM!,
 FLOOD WITH SOME BOTS
