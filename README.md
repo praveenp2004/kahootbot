@@ -1,4 +1,3 @@
 # kahootbot
-ITS SLOW,
 SPAM!,
 FLOOD WITH SOME BOTS
