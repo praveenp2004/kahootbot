@@ -1,3 +1,3 @@
 # kahootbot
 SPAM!,
-FLOOD WITH SOME BOTS
+FLOOD WITH BOTS
