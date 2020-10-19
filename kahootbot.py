@@ -4,7 +4,7 @@ import time
 import random
 from selenium.webdriver.firefox.options import Options
 options = Options()
-options.headless = False
+options.headless = True
 # path = geckodriver_autoinstaller.install()
 # driver = webdriver.Firefox(executable_path=path, options=options)
 driver = webdriver.Firefox(options=options)
